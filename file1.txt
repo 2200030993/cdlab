@@ -1,1 +1,2 @@
-Hi
+Hi, file is modified by clone operation
+ 
